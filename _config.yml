@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Seo Jun Won
+title: University Student
+email: 20215170@hallym.ac.kr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +82-010-6424-5546
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: www.hallym.ac.kr
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
